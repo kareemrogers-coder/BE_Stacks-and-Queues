@@ -40,7 +40,7 @@ orders = Kitchen()
 
 default_message()
 orders.enqueue("Hotdog")
-orders.enqueue("Fish and Chips")   
+orders.enqueue("Red snapper fish and Rice")   
 orders.enqueue("Hamburger")
 orders.enqueue("12pc wings")
 
